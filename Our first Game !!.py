@@ -45,7 +45,7 @@ pen.color("white")
 pen.penup()
 pen.hideturtle()
 pen.goto(0,260)
-#pen.write("Joueur A:    Joueur B:",aligne="center")
+
 
 
 def pad_A_up():
